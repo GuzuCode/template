@@ -1,0 +1,3 @@
+---
+providerRegex: ^(kube01|kube02|kube03)$
+bypassDnsResolution: true
